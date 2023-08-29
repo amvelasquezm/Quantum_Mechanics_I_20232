@@ -1,1 +1,3 @@
-# Quantum_Mechanics_I_20232
+# Mecánica Cuántica I
+
+Adriana Velasquez Medina
